@@ -6,9 +6,9 @@ if [-f c:/laragon/data/mysql/sample5.txt]
 then
     rm -rf c:/laragon/data/mysql/sample5.txt
 fi
-#mysql -u root -e "SELECT * FROM dbestudiantes.estudiante INTO OUTFILE  'sample5.txt';"
+mysql -u root -e "SELECT * FROM dbestudiantes.estudiante INTO OUTFILE  'sample5.txt';"
 #mover el archivo desde la ruta donde esta y copiarlo a C:\git 
-#mv -f c:/laragon/data/mysql/sample5.txt  c:/git
+mv -f c:/laragon/data/mysql/sample5.txt  c:/git
 
 
 
