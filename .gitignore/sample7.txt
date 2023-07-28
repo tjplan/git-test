@@ -1,0 +1,14 @@
+John	Nash	43831	16	Matematico	M	2000-05-01
+Richard	Hendricks	44958	26	Programing Language	M	2008-02-02
+Bertram	Gilfoyle	44986	28	Network Engineer	M	2022-09-18
+Monica	Hall	45017	31	Raviga Capital and associate	F	2022-09-18
+Erlich	Bachman	45047	23	Innovation Incubator	M	2022-09-18
+Dinesh	Chugtai	45048	30	Specializing in Java	M	2021-03-13
+Donald Jared	Dune	45049	36	Business advisor	M	2021-03-13
+Gavin	Belson	55001	53	Business	M	2023-12-25
+Jian	Yang	56035	17	Illustrator	M	2023-07-12
+Laurie	Bream	57001	47	Countable	F	2023-07-12
+pepefff	sdgSDFg	11	25	Tecnique	M	2023-07-04
+Arnold	Schwarzenegger	5200	75	Actor	M	2023-07-12
+Schwarzenegger	Arnold	52011	79	Atletic	F	2023-05-02
+Fiona	fsgfsg444	8	95	Atletic	F	2023-07-18
